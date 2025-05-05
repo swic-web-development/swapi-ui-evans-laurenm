@@ -1,1 +1,7 @@
 import './styles.css'
+import './components/Button'
+import './components/Input'
+import './components/Label'
+import './components/textarea'
+import './components/contact'
+import './components/index'
