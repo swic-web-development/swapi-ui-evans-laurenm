@@ -42,7 +42,7 @@ const TextArea = ({
         disabled={disabled}
         className={`${baseClasses} ${stateClasses} ${disabledClasses}`}
         aria-invalid={error ? 'true' : 'false'}
-      />
+      ></textarea>
       {error && errorMessage && <p className="mt-1 text-sm text-red-600">{errorMessage}</p>}
     </div>
   )
