@@ -1,6 +1,3 @@
-import { createApp } from './app.js'
-import './style.css'
-
 /**
  * Input Component
  * @param {string} type - input type (text, email, password, etc.)

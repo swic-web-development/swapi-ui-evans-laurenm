@@ -1,10 +1,7 @@
-import { createApp } from './app.js'
-import './style.css'
-
-import Button from './Button'
-import Label from './Label'
-import Input from './Input'
-import TextArea from './textarea'
+import Button from './Button.js'
+import Label from './Label.js'
+import Input from './Input.js'
+import TextArea from './textarea.js'
 
 const ContactForm = () => {
   const [formData, setFormData] = useState({
