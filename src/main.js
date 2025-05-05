@@ -1,1 +1,6 @@
 import './styles.css'
+import Input from './components/Input'
+import TextArea from './components/textarea'
+import Label from './components/Label'
+import Button from './components/Button'
+import ContactForm from './components/contact'
