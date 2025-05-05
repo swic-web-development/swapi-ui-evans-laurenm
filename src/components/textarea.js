@@ -1,4 +1,5 @@
-import React from 'tailwindcss'
+import { createApp } from './app.js'
+import './style.css'
 
 /**
  * TextArea Component

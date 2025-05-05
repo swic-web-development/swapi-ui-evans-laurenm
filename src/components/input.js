@@ -1,4 +1,5 @@
-import React from 'react'
+import { createApp } from './app.js'
+import './style.css'
 
 /**
  * Input Component

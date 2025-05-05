@@ -1,4 +1,6 @@
-import React, { useState } from 'react'
+import { createApp } from './app.js'
+import './style.css'
+
 import Button from './Button'
 import Label from './Label'
 import Input from './Input'
